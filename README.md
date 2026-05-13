@@ -1,1 +1,1 @@
-# vacation-planner-kotlin
+# D424 Software Engineering Capstone
